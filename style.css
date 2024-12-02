@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    width: 1337px;
+    height: 3524px;
+    text-align: center;
+    font-family: Poppins;
+}
+/*HEADER*/
+header nav ul{
+    text-decoration: none;
+    list-style-type: none;
+    color: #2B2B2B;
+    color: 16px;
+    font-weight: 400;
+    text-align: end;
+    margin: 40px 100px 0px 20px;
+    display: inline;
+    text-align: right;
+}
+header{
+    display: inline-block;
+
+}
+header nav ul li{
+    display: inline;
+    text-align: right;
+    
+}
+/*MAIN*/
+main button{
+    width: 251px;
+    height: 56px;
+    background-color: #285E67;
+    border-radius: 67px;
+    color: #FFFFFF;
+    font-size: 21.33px;
+    font-weight: 600;
+    padding: 16px;
+    gap: 16px;
+    border: 0px;
+}
+section#first img{
+    width: 644.5px;
+    height: 391px;
+}
+section#second{
+    background-color: #F4F4F4;
+}
+aside#left1 img{
+    width: 58px;
+    height: 57px;
+}
+aside#right1 img{
+    width: 291px;
+    height: 294px;
+}
+/*SECTION3*/
+section#third aside#left{
+    margin-right: 900px;
+}
+section#third aside#right2 span.linea img{
+    display: block;
+    padding: 50px 0px 0px 250px;
+    margin-top: 20px;
+}
+/*FOOTER*/
+footer{
+    background-color: #285E67;
+    height: 245px;
+}
+aside#left3{
+    display: block;
+}
+aside#right3 nav ul{
+    text-decoration: none;
+    list-style-type: none;
+    color: #FFFFFF;
+    color: 16px;
+    font-weight: 400;
+    text-align: end;
+    margin: 40px 100px 0px 20px;
+}
+footer nav ul li{
+    display: inline-block;
+    padding: 0px 15px 0px 15px;
+}
+footer aside#left3{
+    display: inline;
+    text-align: left;
+}
